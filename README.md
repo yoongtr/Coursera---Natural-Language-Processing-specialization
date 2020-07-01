@@ -13,4 +13,4 @@ NLP by deeplearning.ai
 
 ## Course 3: Natural Language Processing with Sequence Models
 
-## Course 4: Natural Language Processing with Sequence Models
+## Course 4: Natural Language Processing with Attention Models
