@@ -8,6 +8,15 @@ NLP by deeplearning.ai
 - Visualizing Word Frequencies
 - Visualizing Tweets and Logistic Regression models
 - Assignment 1
+### Week 2:
+- Visualizing likelihoods and confidence ellipses
+- Assignment 2
+### Week 3:
+- Linear algebra in Python with Numpy
+- Manipulating word embeddings 
+- Another explanation about PCA
+- Assignment 3
+### Week 4:
 
 ## Course 2: Natural Language Processing with Probabilistic Models
 
