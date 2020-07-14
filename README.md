@@ -17,6 +17,9 @@ NLP by deeplearning.ai
 - Another explanation about PCA
 - Assignment 3
 ### Week 4:
+- Rotation matrices in L2
+- Hash tables
+- Assignment 4
 
 ## Course 2: Natural Language Processing with Probabilistic Models
 
