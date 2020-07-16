@@ -22,6 +22,10 @@ NLP by deeplearning.ai
 - Assignment 4
 
 ## Course 2: Natural Language Processing with Probabilistic Models
+### Week 1:
+- Building the vocabulary
+- Candidates from edits
+- Assignment 1
 
 ## Course 3: Natural Language Processing with Sequence Models
 
