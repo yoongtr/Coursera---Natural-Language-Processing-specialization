@@ -26,6 +26,22 @@ NLP by deeplearning.ai
 - [Building the vocabulary](https://github.com/yoongtr/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Probabilistic%20Models/Week%201/NLP_C2_W1_lecture_nb_01.ipynb)
 - [Candidates from edits](https://github.com/yoongtr/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Probabilistic%20Models/Week%201/NLP_C2_W1_lecture_nb_02.ipynb)
 - [Assignment 1](https://github.com/yoongtr/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Probabilistic%20Models/Week%201/C2_W1_Assignment.ipynb)
+### Week 2:
+- [Parts-of-Speech Tagging - First Steps: Working with text files, Creating a Vocabulary and Handling Unknown Words](https://github.com/yoongtr/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Probabilistic%20Models/Week%202/NLP_C2_W2_lecture_notebook_strings_tags.ipynb)
+- [Parts-of-Speech Tagging - Working with tags and Numpy](https://github.com/yoongtr/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Probabilistic%20Models/Week%202/NLP_C2_W2_lecture_notebook_numpy.ipynb)
+- [Assignment 2](https://github.com/yoongtr/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Probabilistic%20Models/Week%202/C2_W2_Assignment.pdf)
+### Week 3:
+- [N-grams Corpus preprocessing](https://github.com/yoongtr/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Probabilistic%20Models/Week%203/NLP_C2_W3_lecture_nb_01.ipynb)
+- [Building the language model](https://github.com/yoongtr/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Probabilistic%20Models/Week%203/NLP_C2_W3_lecture_nb_02.ipynb)
+- [Out of vocabulary words (OOV)](https://github.com/yoongtr/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Probabilistic%20Models/Week%203/NLP_C2_W3_lecture_nb_03.ipynb)
+- [Assignment 3](https://github.com/yoongtr/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Probabilistic%20Models/Week%203/C2_W3_Assignment.ipynb)
+### Week 4
+- [Word Embeddings: Ungraded Practice Notebook](https://github.com/yoongtr/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Probabilistic%20Models/Week%204/NLP_C2_W4_lecture_nb_01.ipynb)
+- [Word Embeddings First Steps: Data Preparation](https://github.com/yoongtr/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Probabilistic%20Models/Week%204/NLP_C2_W4_lecture_notebook_data_prep.ipynb)
+- [Word Embeddings: Intro to CBOW model, activation functions and working with Numpy](https://github.com/yoongtr/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Probabilistic%20Models/Week%204/NLP_C2_W4_lecture_notebook_model_architecture.ipynb)
+- [Word Embeddings: Training the CBOW model](https://github.com/yoongtr/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Probabilistic%20Models/Week%204/NLP_C2_W4_lecture_notebook_model_training.ipynb)
+- [Word Embeddings: Hands On](https://github.com/yoongtr/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Probabilistic%20Models/Week%204/NLP_C2_W4_lecture_notebook_word_embeddings.ipynb)
+- [Assignment 4](https://github.com/yoongtr/Coursera---Natural-Language-Processing-specialization/blob/master/NLP%20with%20Probabilistic%20Models/Week%204/C2_W4_Assignment.ipynb)
 
 ## Course 3: Natural Language Processing with Sequence Models
 
