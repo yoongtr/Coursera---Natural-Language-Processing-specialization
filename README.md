@@ -1,5 +1,5 @@
-# Coursera---Natural-Language-Processing-specialization
-NLP by deeplearning.ai
+# Natural Language Processing specialization
+Notes, Assignments and Relevant stuff from NLP course by deeplearning.ai
 
 
 ## Course 1: Natural Language Processing with Classification and Vector Spaces
